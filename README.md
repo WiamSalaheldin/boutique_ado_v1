@@ -16,18 +16,18 @@
 
 * python
 
-* Django framework*
+* Django framework 
 
-* Stripe *
+* Stripe 
 
 **Deployment**
 
-* Heroku *
-* aws *
+* Heroku 
+* aws 
 
 **database**
 
-* SQlite *
+* SQlite 
 
 
 Visit [boutique ado](https://boutique-ad.herokuapp.com/).
