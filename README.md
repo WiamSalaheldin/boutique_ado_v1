@@ -1,4 +1,4 @@
-*** boutique ado ***
+** boutique ado **
 
 *A fresh approach to shopping*
 
@@ -22,12 +22,12 @@
 
 **Deployment**
 
-*Heroku*
-*aws*
+* Heroku *
+* aws *
 
 **database**
 
-*SQlite*
+* SQlite *
 
 
 
