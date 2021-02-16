@@ -1,8 +1,8 @@
 **boutique ado**
 
-*A fresh approach to shopping*
+*A fresh approach to shopping *
 
- boutique_ado is online store where you can shop your favourite products just few clicks while you are taking your coffee.
+ boutique_ado is online store where you can shop your favourite products just few clicks while you are taking your :coffee: .
  
  **Languages**
 
