@@ -18,7 +18,7 @@
 
 * Django framework*
 
-*Stripe*
+* Stripe *
 
 **Deployment**
 
