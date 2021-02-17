@@ -18,6 +18,8 @@
 
 * Django framework 
 
+**payments Platform**
+
 * Stripe 
 
 **Deployment**
