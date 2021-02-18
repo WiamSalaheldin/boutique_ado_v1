@@ -25,7 +25,6 @@
 **Deployment**
 
 * Heroku 
-* aws 
 
 **database**
 
