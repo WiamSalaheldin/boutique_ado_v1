@@ -32,6 +32,10 @@
 
 * SQlite 
 
+__screen blueprint__
+
+<img src="static/image1.PNG">
+
 
 Visit [boutique ado](https://boutique-ad.herokuapp.com/).
 
