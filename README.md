@@ -6,7 +6,7 @@
  
  **Methodology**
  
- agile software development by using user stories to guide the development of different parts of the application.
+ Agile software development by using user stories to guide the development of different parts of the application.
  
  **Languages**
 
