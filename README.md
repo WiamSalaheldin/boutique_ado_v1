@@ -14,6 +14,8 @@
 
 * Javascript
 
+* Json
+
 * python
 
 * Django framework 
