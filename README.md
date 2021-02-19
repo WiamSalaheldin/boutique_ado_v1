@@ -35,7 +35,9 @@
 __screen blueprint__
 
 <img src="static/images/boutique1.PNG">
-
+<img src="static/images/boutique2.PNG">
+<img src="static/images/boutique3.PNG">
+<img src="static/images/boutique4.PNG">
 
 Visit [boutique ado](https://boutique-ad.herokuapp.com/).
 
